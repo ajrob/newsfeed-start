@@ -30,7 +30,7 @@ arbitrary, you can call the class whatever you'd like.
 Again, the values are arbitrary. You could have chosen different values for "title" or "body"
 
   * Hit the Send button. If all goes well, you should see a JSON response that looks somewhat like this:
-
+ 
 ```javascript
 {
     "createdAt": "2013-10-09T16:59:11.167Z",
